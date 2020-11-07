@@ -11,6 +11,6 @@ Hewwo! my name is Ash. I code frontend shit (node.js apps, websites, etc)
 ## Links:
 - **Website:** https://i-am-an-outcast.com/
 - **Discord Server:** https://outcastcorp.us/outcast/support
-- **Twitter:** https://twitter.com/AshenRed_
+- **Twitter:** https://twitter.com/AshenRed_/
 - **Company:** https://outcastcorp.us/
 - **Discord Bot:** https://outcastcorp.us/Outcast/
