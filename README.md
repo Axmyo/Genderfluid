@@ -9,8 +9,8 @@ Hewwo! my name is Ash. I code frontend shit (node.js apps, websites, etc)
 - I don't really use my Twitter account much, I respond much more on Discord.
 
 ## Links:
-**Website:** https://i-am-an-outcast.com/
-**Discord Server:** https://outcastcorp.us/outcast/support
-**Twitter:** https://twitter.com/AshenRed_
-**Company:** https://outcastcorp.us/
-**Discord Bot:** https://outcastcorp.us/Outcast/
+- **Website:** https://i-am-an-outcast.com/
+- **Discord Server:** https://outcastcorp.us/outcast/support
+- **Twitter:** https://twitter.com/AshenRed_
+- **Company:** https://outcastcorp.us/
+- **Discord Bot:** https://outcastcorp.us/Outcast/
