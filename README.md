@@ -7,6 +7,7 @@ Hewwo! my name is Ash. I code frontend shit (node.js apps, websites, etc)
 - **Pronouns:** They/Them
 - I am genderfluid if the pronouns didn't give that away
 - I don't really use my Twitter account much, I respond much more on Discord.
+- I tend to be incredibly shy when it comes to certain topics.
 
 ## Links:
 - **Website:** https://i-am-an-outcast.com/
