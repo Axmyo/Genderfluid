@@ -15,4 +15,4 @@ Hewwo! my name is Ash. I code frontend shit (node.js apps, websites, etc)
 - **Company:** https://outcastcorp.us/
 - **Discord Bot:** https://outcastcorp.us/Outcast/
 ## Stats
-(https://github-readme-stats.vercel.app/api?username=AshenRed1)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000&icon_color=ff0000)
+[![AshenRed1's GitHub Stats]](https://github-readme-stats.vercel.app/api?username=AshenRed1)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000&icon_color=ff0000)
