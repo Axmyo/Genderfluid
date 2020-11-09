@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/615801226835132429)
+![Discord](https://img.shields.io/discord/775076340398292994)
 ![Twitch Status](https://img.shields.io/twitch/status/ashenred_)
 # Ash | AshenRed
 Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
@@ -11,7 +11,7 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 
 ## Links:
 - **Website:** https://i-am-an-outcast.com/
-- **Discord Server:** https://outcastcorp.us/outcast/support
+- **Discord Server:** https://i-am-an-outcast.com/discord
 - **Twitter:** https://twitter.com/AshenRed_/
 - **Company:** https://outcastcorp.us/
 - **Discord Bot:** https://outcastcorp.us/Outcast/
