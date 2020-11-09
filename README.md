@@ -16,4 +16,4 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 - **Company:** https://outcastcorp.us/
 - **Discord Bot:** https://outcastcorp.us/Outcast/
 ## Stats
-![AshenRed1's github stats](https://github-readme-stats.vercel.app/api?username=AshenRed1&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000)
+![Genderfluid's github stats](https://github-readme-stats.vercel.app/api?username=Genderfluid&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000)
