@@ -5,7 +5,7 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 
 ## Stuff To Know:
 - **Pronouns:** They/Them
-- I am genderfluid if the pronouns didn't give that away
+- I am genderfluid if the pronouns **AND** the username didn't give that away
 - I don't really use my Twitter account much, I respond much more on Discord.
 - I tend to be incredibly shy when it comes to certain topics.
 
