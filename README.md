@@ -15,5 +15,7 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 - **Twitter:** https://twitter.com/AshenRed_/
 - **Company:** https://outcastcorp.us/
 - **Discord Bot:** https://outcastcorp.us/Outcast/
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCLgXtWeLBj01IuhZtzH_PWw" data-layout="full" data-theme="dark" data-count="default"></div>
 ## Stats
 ![Genderfluid's github stats](https://github-readme-stats.vercel.app/api?username=Genderfluid&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000)
